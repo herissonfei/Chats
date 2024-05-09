@@ -1,1 +1,1 @@
-https://chats-eight.vercel.app/
+chat-de0d7.firebaseapp.com
